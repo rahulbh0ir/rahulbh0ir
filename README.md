@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **React**
 
-- 📫 You can reach me **rahulbhoir767676@gmail.com**
+- 📫 You can reach me with **rahulbhoir767676@gmail.com**
 
 - ⚡ I like football, videogames and cats
 
