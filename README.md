@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<img align="right" alt="Coding" width="300" src="https://www.codingwithslinky.com/GIFs/codingDino.gif](https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif">
+<img align="right" alt="Coding" width="300" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif">
 <h3> About me 🪝 </h3>
 
 
