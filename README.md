@@ -17,3 +17,6 @@
 <a href="https://linkedin.com/in/rahul-bhoir-a61536211" target="blank">  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-1464529-1239440.png?f=avif&w=256" alt="rahul_bhoir" height="30" width="30" /></a>   
 <a href = "mailto: rahulbhoir767676@gmail.com"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/3059/3059486.png" alt="rahul_bhoir" height="30" width="30" /></a>
 <a href = "https://drive.google.com/file/d/1gAZnm0l0tRaTnwcV2HzASDafXcdjJPFE/view?usp=drive_link"> <img align="center" src="https://github.com/user-attachments/assets/c293fd7d-2163-4407-bb19-af0a993d04d2" alt="Resume" height="30" width="30" /></a> </p>
+
+
+![](https://komarev.com/ghpvc/?username=rahulbh0ir)
